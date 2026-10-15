@@ -4,3 +4,9 @@ Student: Miras
 
 ## Project
 This project is created for the Agile IT with DevOps course.
+
+## Technologies
+- Git
+- GitHub
+- Docker
+- Python
