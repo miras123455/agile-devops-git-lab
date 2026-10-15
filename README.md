@@ -10,3 +10,6 @@ This project is created for the Agile IT with DevOps course.
 - GitHub
 - Docker
 - Python
+
+## About
+This section was created in the feature-about branch.
